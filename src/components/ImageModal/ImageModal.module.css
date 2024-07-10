@@ -1,0 +1,5 @@
+.overlays {
+    inset: 0;
+    position: fixed;
+    background-color: rgba(129, 129, 129, 0.455);
+  }

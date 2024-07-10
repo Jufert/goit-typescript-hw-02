@@ -1,0 +1,23 @@
+.input {
+    width: 400px;
+    height: 35px;
+    margin-left: 15px;
+  }
+  
+  .searchbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20px;
+  }
+  
+  .searchForm {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+  }
